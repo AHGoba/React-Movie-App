@@ -1,0 +1,27 @@
+/* .card {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto; 
+} */
+  /* .nav-item{
+    background-color: black;
+    color: aliceblue;
+  } */
+
+  .nav-link-active{
+    color: rgb(211, 208, 208);
+    margin: 10px;
+    font-size:large;
+    
+  }
+
+  .navbar-brand{
+    color: red;
+  }
+
+
+  .heart-icon {
+    font-size: 1.5em; /* Adjust the size as needed */
+  }
